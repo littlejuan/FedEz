@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_ubication_options">
+        <item>@string/america_n</item>
+        <item>@string/america_c</item>
+        <item>@string/america_s</item>
+        <item>@string/europa</item>
+        <item>@string/asia</item>
+    </string-array>
+
+    <string-array name="AN">
+        <item>Canadá</item>
+        <item>Estados Unidos</item>
+        <item>México</item>
+    </string-array>
+
+    <string-array name="AC">
+        <item>Belice</item>
+        <item>Costa Rica</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>Nicaragua</item>
+        <item>Panamá</item>
+        <item>El Salvador</item>
+    </string-array>
+
+    <string-array name="Continentes">
+        <item>América del Norte</item>
+        <item>América Central</item>
+        <item>América del Sur</item>
+        <item>Europa</item>
+        <item>Asia</item>
+    </string-array>
+
+    <string-array name="AS">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Brasil</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>México</item>
+        <item>Ecuador</item>
+        <item>Guyana</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>Surinam</item>
+        <item>Trinidad y Tobago</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+    <string-array name="EU">
+        <item>Alemania</item>
+        <item>Hungría</item>
+        <item>Austria</item>
+        <item>Irlanda</item>
+        <item>Bélgica</item>
+        <item>Italia</item>
+        <item>Bulgaria</item>
+        <item>Letonia</item>
+        <item>Chipre</item>
+        <item>Lituania</item>
+        <item>Croacia</item>
+        <item>Luxemburgo</item>
+        <item>Dinamarca</item>
+        <item>Malta</item>
+        <item>Eslovaquia</item>
+        <item>Eslovenia</item>
+        <item>España</item>
+        <item>Estonia</item>
+        <item>Finlandia</item>
+        <item>Francia</item>
+        <item>Grecia</item>
+        <item>Países Bajos</item>
+        <item>Malta</item>
+        <item>Reino Unido</item>
+        <item>Portugal</item>
+        <item>República Checa</item>
+        <item>Rumanía</item>
+        <item>Suecia</item>
+    </string-array>
+
+    <string-array name="ASIA">
+        <item>Vietnam</item>
+        <item>Yemen</item>
+        <item>Uzbekistán</item>
+        <item>Turquía</item>
+        <item>Turkmenistán</item>
+        <item>Timor Leste</item>
+        <item>Tayikistán</item>
+        <item>Taiwán</item>
+        <item>Tailandia</item>
+        <item>Sri Lanka</item>
+        <item>Siria</item>
+        <item>Singapur</item>
+        <item>República Popular Democrática De Corea</item>
+        <item>República Democrática Popular Laos</item>
+        <item>República De Corea</item>
+        <item>Qatar</item>
+        <item>Palestina</item>
+        <item>Pakistán</item>
+        <item>Omán</item>
+        <item>Nepal</item>
+        <item>Myanmar</item>
+        <item>Mongolia</item>
+        <item>Maldivas</item>
+        <item>Malasia</item>
+        <item>Líbano</item>
+        <item>Kuwait</item>
+        <item>Kirguistán</item>
+        <item>Kazajstán</item>
+        <item>Jordania</item>
+        <item>Japón</item>
+        <item>Israel</item>
+        <item>Iraq</item>
+        <item>Irán</item>
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Georgia</item>
+        <item>Filipinas</item>
+        <item>Federación Rusa</item>
+        <item>Emiratos Árabes Unidos</item>
+        <item>Chipre</item>
+        <item>China</item>
+        <item>Camboya</item>
+        <item>Brunei</item>
+        <item>Bhután</item>
+        <item>Bangladesh</item>
+        <item>Bahrein</item>
+        <item>Azerbaiyán</item>
+        <item>Armenia</item>
+        <item>Arabia Saudita</item>
+        <item>Afganistán</item>
+    </string-array>
+</resources>

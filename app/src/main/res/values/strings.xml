@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FedEz</string>
+    <string name="america_n">América del Norte</string>
+    <string name="america_c">América Central</string>
+    <string name="america_s">América del Sur</string>
+    <string name="europa">Europa</string>
+    <string name="asia">Asia</string>
+</resources>
